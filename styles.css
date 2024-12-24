@@ -120,3 +120,34 @@
 .image p{
     text-align: center;
 }
+
+
+
+.quote-container{
+    background-color: #E5E7EB;
+    padding: 80px;
+    
+}
+
+.quote{
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.author {
+    font-size: 18px;
+    font-weight: bolder;
+    color: #374151;
+    text-align: right;
+    margin-top: 10px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
